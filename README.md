@@ -17,17 +17,20 @@
 
 ## 🛠 My Skills
 
-### 💻 Frontend Development
+### 💻 Frontend & Mobile Development
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
 </p>
 
 * **Frameworks & UI:** Next.js (App Router), Nuxt.js, Vuetify, MUI, Tailwind CSS, CSS Modules, styled-components
+* **Mobile Apps:** React Native, Expo, Flutter (Dart)
 * **Testing & UI Tooling:** Vitest, Jest, Playwright, Storybook
 * **API & Data:** GraphQL (Apollo Client), OpenAPI (Swagger, Orval)
 
